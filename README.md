@@ -27,7 +27,7 @@ We don’t want you to worry about the insignificant details, so we’ve setup t
 
 Bonus Points
 ----------
-Bootstrap
-EntityFramework Code First
-Sky’s the Limit…
-It runs
+- Bootstrap
+- EntityFramework Code First
+- Sky’s the Limit…
+- It runs
