@@ -1,9 +1,9 @@
 bankers-seed-project
 ====================
 
-Disclaimer 
+Congratulations! 
 ----------
-We know that you may not have extensive … or any … experience with the technologies below, so the point of this exercise is not to prove your expertise.  You got to this point in the process because we believe that you have the ability to assimilate the basics of modern technologies.  Now is your time to prove it.
+We want to see your awesomeness with a technical exercise!  We know that you may not have extensive … or any … experience with the technologies below, so the point of this exercise is to show your grasp of the concepts, resourcefulness and drive to learn.   We believe that you have the ability to assimilate the basics of modern technologies.  Now is your time to prove it.
 
 What We Want
 ----------
@@ -12,13 +12,17 @@ A web application that displays some simple data and allows for a simple update 
 1.	Use the UML below as the definition for the data you’ll be displaying / updating.  You do not need to implement all of this but what you do has to match this diagram.
 ![alt tag](http://sourceforge.net/apps/mediawiki/useocl/nfs/project/u/us/useocl/a/a9/Cls-EDP.png)
 
-2.	The front end has to be AngularJS.  Again, don’t start to sweat if you’ve never even touched it – we’re looking for basic implementation - not high level experience.
-3.	Data must be traferred over restful services created with Microsoft’s WebAPI framework.
-4.	Data must be accessed via EntityFramework 
-5.	Code must be deposited on GitHub
+2.	The front end has to be **AngularJS**.  Again, don’t start to sweat if you’ve never even touched it – we’re looking for basic implementation - not high level experience.
+3.	3.	You must create a data interface using **RESTful** services - created with Microsoft’s WebAPI v2 framework.
+4.	Data must be accessed via **EntityFramework** 
+5.	Code must be deposited on **GitHub**
+6.	We need to be able to simply grab your solution from GitHub and run it.
 
 
-You do not need to go overboard – you don’t have to add security or logging or 3-D visualizations.  There requirements are purposefully vague as we aren’t generally concerned with the what, rather the how.
+
+You do not need to go overboard – you don’t have to add security or logging or 3-D visualizations.  These requirements are purposefully vague as we aren’t generally concerned with the what, rather the how.  This should be an approximately 4-8 hour exercise depending on your level of exposure to these technologies. 
+
+When you are done, provide us the link to your GitHub repository.
 
 Where to Start
 ----------
@@ -31,3 +35,25 @@ Bonus Points
 - EntityFramework Code First
 - Sky’s the Limit…
 - It runs
+
+Visual Studio Plugins
+---------------------
+
+The following plugins may help speed up your development. These work for Visual Studio 2012 and some of these may work out of the box with Visual Studio 2013
+
+**Entity Framework tools**
+
+http://download.microsoft.com/download/2/C/F/2CF7AFAB-4068-4DAB-88C6-CEFD770FAECD/EFTools6.1.0ForVS2012.msi
+
+**GIT Plugin**
+
+http://visualstudiogallery.msdn.microsoft.com/abafc7d6-dcaa-40f4-8a5e-d6724bdb980c/file/93137/7/Microsoft.TeamFoundation.Git.Provider.msi?SRC=VSIDE
+
+**Web API 2 Pluins**
+
+https://www.microsoft.com/web/handlers/webpi.ashx/getinstaller/WebNode11Pack.appids
+
+**SQL Server Data Tools**
+
+http://msdn.microsoft.com/en-us/library/hh500335(v=vs.103).aspx
+
