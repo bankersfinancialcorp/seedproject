@@ -13,7 +13,7 @@ namespace API {
             var config = GlobalConfiguration.Configuration;
 
             var jsonSerializerSettings = config.Formatters.JsonFormatter.SerializerSettings;
-
+            
             jsonSerializerSettings.ContractResolver = new CamelCasePropertyNamesContractResolver();
             jsonSerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Serialize;
             jsonSerializerSettings.PreserveReferencesHandling = Newtonsoft.Json.PreserveReferencesHandling.Objects;
