@@ -31,3 +31,25 @@ Bonus Points
 - EntityFramework Code First
 - Sky’s the Limit…
 - It runs
+
+Visual Studio Plugins
+---------------------
+
+The following plugins may help speed up your development. These work for Visual Studio 2012 and some of these may work out of the box with Visual Studio 2013
+
+**Entity Framework tools**
+
+http://download.microsoft.com/download/2/C/F/2CF7AFAB-4068-4DAB-88C6-CEFD770FAECD/EFTools6.1.0ForVS2012.msi
+
+**GIT Plugin**
+
+http://visualstudiogallery.msdn.microsoft.com/abafc7d6-dcaa-40f4-8a5e-d6724bdb980c/file/93137/7/Microsoft.TeamFoundation.Git.Provider.msi?SRC=VSIDE
+
+**Web API 2 Pluins**
+
+https://www.microsoft.com/web/handlers/webpi.ashx/getinstaller/WebNode11Pack.appids
+
+**SQL Server Data Tools**
+
+http://msdn.microsoft.com/en-us/library/hh500335(v=vs.103).aspx
+
